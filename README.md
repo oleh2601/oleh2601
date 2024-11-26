@@ -1,7 +1,7 @@
 Hi 👋 My name is Oleh Zarudskyi
 ===============================
 
-Junior Data Scientist
+Junior Data Engineer
 ---------------------
 
 #### About Me
