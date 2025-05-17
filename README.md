@@ -1,29 +1,58 @@
-Hi 👋 My name is Oleh Zarudskyi
-===============================
-
-Junior Data Engineer
+Technical Writer
 ---------------------
 
 #### About Me
-I switched careers in October 2024 to pursue my passion for programming and am currently diving into Data Science and Machine Learning. After 5+ years in logistics, I realized sales wasn’t for me, and now I’m fully focused on learning and building projects. I’m studying at GoIT on their Python Data Science and Machine Learning course. So far, I’ve mastered Python Core and am working with libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. I’m also exploring Docker, SQL/NoSQL databases, web scraping, and Git. 
-
+After 5+ years in 3PL Logistics and Sales, I made a career switch into IT. I worked as an Application Support Engineer for 5 months and am now actively pursuing a career in technical writing.
 #### My Goal
-To finish my course, build impactful projects, and create a portfolio that showcases my skills—not just for potential employers but because I love solving problems and creating new things.
+I'm focused on developing my own writing style, building strong technical knowledge, and producing clear, high-quality documentation.
+*  I'm based in Kharkiv, Ukraine
+*  You can contact me at [nobackups@protonmail.com](mailto:nobackups@protonmail.com)
+*  Currently learning: ENGL210 Technical Writing (Saylor Academy), WordPress, Markdown, and style guides  
+*  Open to freelance or collaboration opportunities in technical writing
+*  Personal interests: watches, books, UFC, and video games  
 
-* 🌍  I'm based in Kyiv, Ukraine
-* ✉️  You can contact me at [nobackups@protonmail.com](mailto:nobackups@protonmail.com)
-* 🧠  I'm learning Data Science, Machine Learning: Pandas/Numpy, scikit-learn etc
-* 🤝  I'm open to collaborating on Data Science, Machine Learning related projects
-* ⚡  I am big fan of watches, UFC and playing videogames(but that's in the past for me until I get a job at the very least)
+### Hard Skills
 
-### Skills
+* **Languages & Communication**
+   * English (C1)
+   * Ukrainian
+   * Russian
+
+* **Protocols**
+   * SIP, RTP, SDP, RADIUS, AAA
+
+* **Operating Systems & Networking**
+   * Linux (Ubuntu, RHEL), Windows
+   * Linux system management (systemd, crontab, log navigation, permissions, package management)
+   * Firewall basics: iptables
+   * Network diagnostics: traceroute, ping, netstat, nslookup, dig
+   * Ports and services, NAT traversal
+   * TCP/IP, DNS, NAT, VPN
+
+* **Scripting & Debugging**
+   * SQL (proficient), Python, Bash (basic)
+   * Wireshark, tcpdump
+
+* **Tools & Documentation**
+   * Git (basic), Markdown (basic)
+   * Libre Office, Google Workspace, Trello, Slack
+   * Notion (personal use), Flameshot (screenshot markup)
+
+* **Support & Troubleshooting**
+   * Log analysis, incident troubleshooting
+   * Ticket handling, system monitoring
+   * Self-managed task tracking and productivity logging
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+### Soft skills  
+* Clear Communication  
+5+ years of client-facing experience in the U.S. logistics industry developed my ability to communicate precisely, efficiently, and with structure — essential for clear documentation.
 
+* Analytical Mindset  
+Comfortable dissecting logs, protocols, and backend behavior to document or explain complex workflows in a simple, understandable way.
 
-### Socials
+* Technical Adaptability  
+Quick to learn new tools and systems; successfully adapted to telecom-specific platforms and documentation practices at PortaOne.
 
-<p align="left"> <a href="https://www.dev.to/dos_santos26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/1033458749068816435" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/oleh2601" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/dos_santos26/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in//oleh-zarudskyi-b1927232b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/real_dos_santos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+* Self-Motivated Learning  
+Actively expanding my skill set through WordPress, markup fundamentals, and the ENGL210: Technical Writing course (Saylor Academy).
