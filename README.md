@@ -7,7 +7,7 @@ After 5+ years in 3PL Logistics and Sales, I made a career switch into IT. I wor
 I'm focused on developing my own writing style, building strong technical knowledge, and producing clear, high-quality documentation.
 *  I'm based in Kharkiv, Ukraine
 *  You can contact me at [nobackups@protonmail.com](mailto:nobackups@protonmail.com)
-*  Currently learning: ENGL210 Technical Writing (Saylor Academy), WordPress, Markdown, and style guides  
+*  Currently learning: ENGL210 Technical Writing (Saylor Academy), Documenting APIs Course by Tom Johnson(idratherbewriting), WordPress, Markdown, and style guides  
 *  Open to freelance or collaboration opportunities in technical writing
 *  Personal interests: watches, books, UFC, and video games  
 
