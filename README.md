@@ -3,6 +3,7 @@ Technical Writer
 
 #### About Me
 After 5+ years in 3PL Logistics and Sales, I made a career switch into IT. I worked as an Application Support Engineer for 5 months and am now actively pursuing a career in technical writing.
+[CV link](https://docs.google.com/document/d/e/2PACX-1vSa7JEfk5-rjuYnU9Y65qoeOcoqBuyPQlKtO1ZCo2CMb3JaZ_j0sL6twJWZDpZjbA/pub)
 #### My Goal
 I'm focused on developing my own writing style, building strong technical knowledge, and producing clear, high-quality documentation.
 *  I'm based in Kharkiv, Ukraine
@@ -56,3 +57,17 @@ Quick to learn new tools and systems; successfully adapted to telecom-specific p
 
 * Self-Motivated Learning  
 Actively expanding my skill set through WordPress, markup fundamentals, and the ENGL210: Technical Writing course (Saylor Academy).
+
+
+### Achievements
+Cisco Networking Academy Certificates: Computer Hardware & Operating Systems Basics
+EF SET English Level C2 certificate
+Google Technical Writing One, Two
+
+
+### Currently Learning and Future Learning Plans
+* [ENGL210 Technical Writing by Saylor Academy](https://learn.saylor.org/course/view.php?id=368)
+* [Documenting APIs Course by Tom Johnson(idratherbewriting)](https://idratherbewriting.com/learnapidoc/docapis_overview.html)
+* [Google's Tech Writing for Accessibility](https://developers.google.com/tech-writing/accessibility)
+* [Google's Writing Helpful Error Messages](https://developers.google.com/tech-writing/error-messages)
+* ...
