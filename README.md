@@ -2,7 +2,7 @@ Technical Writer
 ---------------------
 
 #### About Me
-After 5+ years in 3PL Logistics and Sales, I made a career switch into IT. I worked as an Application Support Engineer for 5 months and am now actively pursuing a career in technical writing.
+After 5+ years in 3PL Logistics and Sales, I made a career switch into IT. I worked as an Application Support Engineer for 5 months and am now actively pursuing a career in technical writing.  
 [CV link](https://docs.google.com/document/d/e/2PACX-1vSa7JEfk5-rjuYnU9Y65qoeOcoqBuyPQlKtO1ZCo2CMb3JaZ_j0sL6twJWZDpZjbA/pub)
 #### My Goal
 I'm focused on developing my own writing style, building strong technical knowledge, and producing clear, high-quality documentation.
